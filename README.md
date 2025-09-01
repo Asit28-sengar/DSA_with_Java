@@ -1,3 +1,3 @@
-# DSA_with_Java
+# DSA with Java
 
-it consists my java programs.
+This repository consists of my Java programs related to Data Structures and Algorithms.
