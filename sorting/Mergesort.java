@@ -1,4 +1,4 @@
-public class mergesort { // Fixed: Class name starts with uppercase
+public class Mergesort { // Fixed: Class name starts with uppercase
     public static void merge(int arr[], int low, int mid, int high) {
         int left = low;
         int right = mid + 1;
